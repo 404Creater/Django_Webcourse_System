@@ -1,2 +1,2 @@
-# Django_Webcourse_System
+# Django_WebCourse_System
 powerd by Django
